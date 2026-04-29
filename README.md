@@ -9,4 +9,4 @@ To identify friction points in the user journey and provide data-driven product 
 * **Recommendation:** Test a "Guest Checkout" option to reduce account-creation friction.
 ## 🚀 Live Demo
 View the interactive conversion funnel here: 
-[Live Funnel Analysis](funnel_chart.html)
+[Live Funnel Analysis](https://github.io)
