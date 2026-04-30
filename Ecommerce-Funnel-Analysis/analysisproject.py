@@ -24,5 +24,5 @@ fig = px.funnel(funnel_df, x='Users', y='Stage',
 print("--- Analysis Complete ---")
 print(funnel_df)
 
-fig.write_html("funnel_chart.html")
+fig.write_html("index.html")
 print("Success! Your chart is saved as 'funnel_chart.html' in your folder.")
