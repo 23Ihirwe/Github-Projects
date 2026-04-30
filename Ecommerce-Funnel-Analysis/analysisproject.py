@@ -25,4 +25,4 @@ print("--- Analysis Complete ---")
 print(funnel_df)
 
 fig.write_html("index.html")
-print("Success! Your chart is saved as 'funnel_chart.html' in your folder.")
+print("Success! Your chart is saved as 'index.html' in your folder.")
